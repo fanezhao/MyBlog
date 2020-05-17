@@ -18,18 +18,18 @@ permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Links
-weibo_username: boyatazhizi
-twitter_username: boyatazhizi
-facebook_username: boyatazhizi
+weibo_username: 
+twitter_username: 
+facebook_username: 
 github_username: whjin
 zhihu_username: whjin
-douban_username: whuajin
+douban_username: 
 
 # Directory
 source_dir: source
 public_dir: public
 tag_dir: tags
-archive_dir: archives
+archive_dir: archive
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
@@ -74,7 +74,7 @@ time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 5
+per_page: 6
 pagination_dir: page
 
 # Extensions
